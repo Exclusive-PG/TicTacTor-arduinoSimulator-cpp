@@ -1,0 +1,13 @@
+﻿  TicTacToe.cpp
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\UDP_CLR_CLIENT\TicTacToe.cpp(225): warning C4715: 'TicTacToe::getStep': not all control paths return a value
+D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\UDP_CLR_CLIENT\TicTacToe.cpp(145): warning C4715: 'TicTacToe::CPUmode': not all control paths return a value
+  ArduinoSimulator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+bgi.lib(winbgi.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+bgi.lib(dibutil.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(dibutil.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(drawing.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(file.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(misc.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(text.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(text.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(winbgi.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+bgi.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'bgi.lib(winthread.obj)' or at 'D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\bgi.pdb'; linking object as if no debug info
+  UDP_CLR_CLIENT.vcxproj -> D:\Work.Academy\1 2021(3 course 1 semestr)\KSKS\Lab6\UDP_CLR_CLIENT(6)\Debug\UDP_CLR_CLIENT.exe
